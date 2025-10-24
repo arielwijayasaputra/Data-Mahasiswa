@@ -1,0 +1,60 @@
+Nama        : Ariel
+Absen       : 1
+NISN        : 1
+Umur        : 16
+Jurusan     : RPL
+Tanggal Lhr : 17-8-2009
+Nilai Mtk   : 87.2
+Nilai IPA   : 92.15
+Nilai B.Ind : 76.8
+Nilai B.Ing : 92.55
+Nilai Akhir : 87.4275
+============================
+Nama        : Fandy
+Absen       : 16
+NISN        : 2
+Umur        : 16
+Jurusan     : RPL
+Tanggal Lhr : 1-1-2009
+Nilai Mtk   : 84.85
+Nilai IPA   : 93.6
+Nilai B.Ind : 84.85
+Nilai B.Ing : 94.4
+Nilai Akhir : 88.9475
+============================
+Nama        : Dedi
+Absen       : 19
+NISN        : 3
+Umur        : 16
+Jurusan     : RPL
+Tanggal Lhr : 2-2-2009
+Nilai Mtk   : 85.55
+Nilai IPA   : 94.15
+Nilai B.Ind : 88.7
+Nilai B.Ing : 91
+Nilai Akhir : 89.42
+============================
+Nama        : Mardiansyah
+Absen       : 30
+NISN        : 4
+Umur        : 16
+Jurusan     : RPL
+Tanggal Lhr : 4-4-2009
+Nilai Mtk   : 89.8
+Nilai IPA   : 95.75
+Nilai B.Ind : 81.7
+Nilai B.Ing : 85.4
+Nilai Akhir : 88.7875
+============================
+Nama        : Alex
+Absen       : 14
+NISN        : 5
+Umur        : 16
+Jurusan     : RPL
+Tanggal Lhr : 6-6-2009
+Nilai Mtk   : 93.2
+Nilai IPA   : 87.75
+Nilai B.Ind : 91
+Nilai B.Ing : 86.2
+Nilai Akhir : 89.9975
+============================
